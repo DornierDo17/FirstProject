@@ -1,0 +1,47 @@
+[
+     {
+        "Type" : "Bus",
+        "Route" : "From C to N",
+        "Ticket Price" : "4 zl",
+        "Goes at night" : true,
+        "Time the whole route" : 50
+     },
+
+     {
+        "Type" : "Bus",
+        "Route" : "From S to N",
+        "Ticket Price" : "6 zl",
+        "Goes at night" : true,
+        "Time the whole route" : 90
+     },
+     {
+        "Type" : "Bus",
+        "Route" : "From C to N",
+        "Ticket Price" : "4 zl",
+        "Goes at night" : true,
+        "Time the whole route" : 50
+     },
+
+     {
+        "Type" : "Bus",
+        "Route" : "From C to N",
+        "Ticket Price" : "4 zl",
+        "Goes at night" : true,
+        "Time the whole route" : 50
+     },
+
+     {
+        "Type" : "Tram",
+        "Route" : "From C to N",
+        "Ticket Price" : "4 zl",
+        "Goes at night" : true,
+        "Time the whole route" : 50
+     },
+     {
+        "Type" : "Bus",
+        "Route" : "From C to N",
+        "Ticket Price" : "4 zl",
+        "Goes at night" : true,
+        "Time the whole route" : 50
+     }       
+]

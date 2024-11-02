@@ -1,0 +1,39 @@
+<?xml version"1.0"?>
+<PublicTransport>
+ <Trasport>
+    <type power='electicity', color='Blue'>Bus</type>
+    <description max_speed='50 km/h', max_seat='20'>Fast Bus</description>
+    <number changable='Not', greater_that_10="True">110</number>
+    <location time_whole_route='2 h', ticket_price='4 zl'>center</location>
+ </Trasport>
+ <Trasport>
+    <type>Tram</type>
+    <description>Fast Tram</description>
+    <number>50</number>
+    <location>north</location>
+ </Trasport>
+ <Trasport>
+    <type>Bus</type>
+    <description>Fast Bus</description>
+    <number>110</number>
+    <location>center</location>
+ </Trasport>
+ <Trasport>
+    <type>Bus</type>
+    <description>Fast Bus</description>
+    <number>110</number>
+    <location>center</location>
+ </Trasport>
+ <Trasport>
+    <type>Bus</type>
+    <description>Fast Bus</description>
+    <number>110</number>
+    <location>center</location>
+ </Trasport>
+ <Trasport>
+    <type>Bus</type>
+    <description>Fast Bus</description>
+    <number>110</number>
+    <location>center</location>
+ </Trasport>
+</PublicTransport>

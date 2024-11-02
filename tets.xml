@@ -1,0 +1,27 @@
+<?xml version"1.0"?>
+<productList title="Shop">
+ <product>
+    <name language="English", availabilty="In market">Water</name>
+    <description length="short", source="natural">Nice cool water</description>
+    <cost unit="USD", dicount="None">1</cost>
+    <shipping unit="USD", region="USA">1</shipping>
+ </product>
+ <product>
+    <name language="Enlgish", availabilty="In a way to the market">Tomatoes</name>
+    <description counrty_from="Ukraine", source="ground">fresh tomatoes from Ukraine</description>
+    <cost unit="USD", discount="None">3$ per kg</cost>
+    <shipping unit="USD", region="USA">1$</shipping>
+ </product>
+ <product>
+    <name language="English, Polish", availabilty="In market">Milka</name>
+    <description counrty_from="Switzerland", sorce="Fabric">delicious</description>
+    <cost unit="USD", dicount="50 cents">3$</cost>
+    <shipping unit="USD", region="Brazil">1$</shipping>
+ </product>
+ <product>
+    <name language="English", availabilty="In market">Bread</name>
+    <description counrty_from="USA", quality="Great">Fresh Bread</description>
+    <cost unit="USD", discount="None">2$</cost>
+    <shipping unit="USD", region="USA">1$</shipping>
+ </product>
+</productList>

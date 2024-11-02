@@ -1,0 +1,13 @@
+{
+    "Transport" :
+    {
+        "How many on the route" : 100,
+        "Types of public transport" : "Bus, Tram",
+        "Average time between buses" : 4.07,
+        "Works between 1 am and 4 am" : false,
+        "Numbers of buses on the route from C to N" : [10, 20, 30, 40],
+        "Bus or Tram" : {"Bus" : 10, "Tram" : 40},
+        "Price of the ticket" : "4 zl",
+        "Arrives in time" : true
+    }
+}
